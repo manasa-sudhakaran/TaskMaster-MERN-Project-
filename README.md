@@ -33,7 +33,7 @@
   4. Navigate to http://localhost:3000 to view the application.
 
 ## License
-  Distributed under the MIT License. See LICENSE for more information.
+  Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgments
       MERN Stack

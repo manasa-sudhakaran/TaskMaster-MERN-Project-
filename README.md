@@ -11,15 +11,15 @@
   Project and Task Management: Efficiently add and manage project details and tasks.
   
 ## Technology Stack
-  # Frontend: 
+   Frontend: 
       React.js, Redux, MUI, Chart.js
-  # Backend: 
+   Backend: 
       Node.js, Express
-  # Database: 
+   Database: 
       MongoDB
-  # Real-Time Communications: 
+   Real-Time Communications: 
       Socket.IO
-  # API Calls: 
+   API Calls: 
       Axios, Fetch
   
 ## Getting Started
